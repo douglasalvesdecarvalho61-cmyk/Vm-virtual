@@ -1,0 +1,19 @@
+{
+  "sessionId": "8e6a8eb1e741444a867ef7cc48e15d87",
+  "errors": [
+    {
+      "errorMessage": "interaction_required: AADSTS16000: User account &#39;{EUII Hidden}&#39; from identity provider &#39;live.com&#39; does not exist in tenant &#39;Microsoft Services&#39; and cannot access the application &#39;0a2057a8-149c-40ca-859e-98de032535fb&#39;(Microsoft Azure Marketplace) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account. Trace ID: 92468dcb-dbac-4a35-8877-cb9137036900 Correlation ID: dbadfbf1-951f-45b5-83b7-a27d4ae5dfc5 Timestamp: 2026-10-11 18:51:35Z",
+      "clientId": "0a2057a8-149c-40ca-859e-98de032535fb",
+      "scopes": [
+        "a0e1e353-1a3e-42cf-a8ea-3a9746eec58c/.default"
+      ]
+    },
+    {
+      "errorMessage": "interaction_required: AADSTS16000: User account &#39;{EUII Hidden}&#39; from identity provider &#39;live.com&#39; does not exist in tenant &#39;Microsoft Services&#39; and cannot access the application &#39;0a2057a8-149c-40ca-859e-98de032535fb&#39;(Microsoft Azure Marketplace) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account. Trace ID: 92468dcb-dbac-4a35-8877-cb9137036900 Correlation ID: dbadfbf1-951f-45b5-83b7-a27d4ae5dfc5 Timestamp: 2026-10-11 18:51:35Z",
+      "clientId": "0a2057a8-149c-40ca-859e-98de032535fb",
+      "scopes": [
+        "a0e1e353-1a3e-42cf-a8ea-3a9746eec58c/.default"
+      ]
+    }
+  ]
+}
